@@ -24,5 +24,5 @@ angular.module('devmtnTravel').service('mainSrv', function(){
         price: 1112
 
 
-    }]
-})
+    }];
+});
